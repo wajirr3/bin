@@ -10,10 +10,10 @@ app = Sanic('binchk-app')
 INDEX = f'''
     <html>
         <body>
-            <h1>BIN CHK API!</h1>
+            <h1>BIN CHK</h1>
             <h3>Stable bin Database</h3>
-            <h6>©Copyright by <a href="https://t.me/Xbinner69">Nitin</a></h6>
-            <h6>Source code: <a href="https://github.com/xbinner18/binchk-api">github.com/Nitin181/binchk-api</a></h6>
+            <h6>Dev <a href="https://t.me/imnoob_xd">IMNOOB</a></h6>
+            <h6>Group: <a href="https://t.me/vvipbd">Group</a></h6>
         </body>
     </html>
     '''
